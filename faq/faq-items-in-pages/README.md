@@ -1,0 +1,2 @@
+# faq items in pages
+
