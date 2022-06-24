@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Frax in plain English](README.md)
-* [FRAX the stablecoin](frax-the-stablecoin.md)
+* [FRAX the stablecoin](frax-the-stablecoin/README.md)
+  * [How does FRAX keep its peg](frax-the-stablecoin/how-does-frax-keep-its-peg.md)
+  * [Has FRAX ever been off-peg?](frax-the-stablecoin/has-frax-ever-been-off-peg.md)
 * [FAQ](faq/README.md)
   * [What is FXS?](faq/what-is-fxs.md)
 * [ELI5](eli5/README.md)
@@ -14,7 +16,3 @@
   * [What is FXS?](faq/faq-items-in-pages/what-is-fxs.md)
 * [faq items in foldouts](faq/faq-items-in-foldouts.md)
 * [faq items with headers](faq/faq-items-with-headers.md)
-
-***
-
-* [How does FRAX keep its peg](how-does-frax-keep-its-peg.md)
