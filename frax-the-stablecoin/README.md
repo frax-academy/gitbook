@@ -2,12 +2,11 @@
 
 FRAX is a US Dollar stablecoin that is issued by Frax Finance via smart contracts.
 
-It is designed to be the ideal stablecoin for DeFi with FRAX being:
+It is designed to be the ideal stablecoin for DeFi with the following properties:
 
-* **Uncensorable**, meaning it’s impossible to block anyone from sending or receiving FRAX tokens.
-* **Transparent** with all Frax's assets visible and verifiable on the blockchain. No funny business.
-* **Reliable** as it is largely backed by stable assets, opposed to uncollateralised stablecoins.
-* **Capital efficient**, so it can expand more quickly to meet the demand of DeFi and offer lower borrow rates compared to overcollateralized stablecoins.
-
-
+* FRAX cannot be censored, meaning that it’s impossible to block anyone from sending or receiving FRAX tokens.
+* FRAX is fully transparent with all its assets, including the collateral, visible on the blockchain. No funny business.
+* FRAX is reliable as it is largely backed by stable assets, opposed to uncollateralised stablecoins.
+* FRAX is scalable and can quickly expand to meet the demand of DeFi.
+* FRAX is capital efficient making it relavitely cheap to borrow FRAX on lending platforms.
 
