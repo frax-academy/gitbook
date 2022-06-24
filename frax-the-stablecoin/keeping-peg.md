@@ -1,12 +1,10 @@
 # Keeping peg
 
-Frax Finance ensures that FRAX trades at 1 USD with multiple instruments.&#x20;
+Frax Finance ensures that FRAX trades at 1 USD with 3 methods.
 
-The first one is the Mint and Redeem function. These smart contract functions allow anyone to profit from the price difference between the price of FRAX on the open market and 1 USD (as FRAX can always be traded with the protocol for 1 USD). For more details see \[link to Mint/Redeem]
+The first method is that FRAX can always be traded with the protocol for 1 USD. Meaning that FRAX can be sold for profit on the market or to the protocol when FRAX trades above or below a dollar. This arbitrage action restores the price of FRAX on the market to the peg.
 
-The second instrument is the staking system where users are incentivised to lock FRAX against other stablecoins. This ensures that vast amounts of stablecoins like USDC and DAI can be traded against FRAX. More stablecoin-to-stablecoin liquidity means that more FRAX can be bought or sold before the price starts deviating.&#x20;
+The second method is by having users add FRAX against other stablecoins like USDC and DAI in trading pools on Decentralised EXchanges (DEX'es). This is done through Frax's staking program and through incentives for Curve stakers (the so called bribe wars). More stablecoin-to-stablecoin liquidity means that more FRAX can be bought or sold before the price is impacted.
 
-Frax also incentivises users to add liquidity to FRAX pools on Curve, this is often referred to as “the bribe wars”. These incentives lead to more liquidity, which similar to the staking system, leads to more price stability.
-
-Another unique instrument created by Frax are its AMOs (Autonomous Market Operations) which are smart contracts that can mint or burn FRAX tokens into stablecoin pools to balance these pools and through it the price of FRAX. Through the use of these AMOs, the Frax protocol itself owns so much liquidity that is has become mathematically impossible for FRAX to de-peg.
+The third method is by having the protocol, opposed to users, own the liquidity in the stablecoin pools. This is also called Protocol Owned Liquidity or POL. FRAX has created specific smart contracts, called Autonomous Market Operations (AMOs), that have been very successful in increasing Frax's POL. So successful that there currently is not enough FRAX circulating that can be sold to make FRAX depeg.
 
