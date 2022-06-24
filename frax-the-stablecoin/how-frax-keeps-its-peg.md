@@ -1,6 +1,6 @@
 # How FRAX keeps its peg
 
-Frax Finance ensures that FRAX is always worth one US Dollar with multiple instruments.&#x20;
+Frax Finance ensures that FRAX is always worth 1 US Dollar with multiple instruments.&#x20;
 
 The first one is the protocol’s Mint and Redeem function, where 1 FRAX can be minted or redeemed for 1 dollar worth of USDC and FXS (Frax Shares Token).
 
