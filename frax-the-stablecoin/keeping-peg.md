@@ -10,4 +10,3 @@ Frax also incentivises users to add liquidity to FRAX pools on Curve, this is of
 
 Another unique instrument created by Frax are its AMOs (Autonomous Market Operations) which are smart contracts that can mint or burn FRAX tokens into stablecoin pools to balance these pools and through it the price of FRAX. Through the use of these AMOs, the Frax protocol itself owns so much liquidity that is has become mathematically impossible for FRAX to de-peg.
 
-Not an instrument, but worthy to mention is the Lindy effect, meaning that the longer FRAX trades at one dollar, the stronger the belief of people that FRAX will keep trading at a dollar. Over time this results in a natural arbitrage process where people will buy of sell FRAX when its trading above or below a dollar, because there is confidence that it will trade at one dollar and the risk of the arbitrage trade is low.
