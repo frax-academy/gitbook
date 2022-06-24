@@ -1,4 +1,4 @@
-# Peg history
+# FRAX Price
 
 Since the launch of the protocol in December 2020, FRAX has never been off-peg. Off-peg means that the average price of FRAX (accross all markets) is lower than $0.99 or higher then $1.01. The fact that FRAX has never lost its peg can be verified on the blockchain and is also shown in the price chart on [Frax Finance](https://app.frax.finance/).&#x20;
 
