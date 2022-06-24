@@ -2,6 +2,7 @@
 
 * [Frax in plain English](README.md)
 * [FRAX the stablecoin](frax-the-stablecoin/README.md)
+  * [What is FRAX](frax-the-stablecoin/what-is-frax.md)
   * [How FRAX keeps its peg](frax-the-stablecoin/how-frax-keeps-its-peg.md)
   * [Has FRAX ever been off-peg?](frax-the-stablecoin/has-frax-ever-been-off-peg.md)
 * [FAQ](faq/README.md)
@@ -20,7 +21,3 @@
 ## Group 1
 
 * [Page 1](group-1/page-1.md)
-
-***
-
-* [What is FRAX](what-is-frax.md)
