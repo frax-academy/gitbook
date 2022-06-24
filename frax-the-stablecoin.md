@@ -2,7 +2,7 @@
 description: What is FRAX
 ---
 
-# FRAX
+# FRAX the stablecoin
 
 FRAX is a USD stablecoin that is issued by Frax Protocol via smart contracts.
 

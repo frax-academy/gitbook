@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Frax in plain English](README.md)
-* [FRAX](frax.md)
+* [FRAX the stablecoin](frax-the-stablecoin.md)
 * [FAQ](faq/README.md)
   * [What is FXS?](faq/what-is-fxs.md)
 * [ELI5](eli5/README.md)
