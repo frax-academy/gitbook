@@ -14,3 +14,7 @@
   * [What is FXS?](faq/faq-items-in-pages/what-is-fxs.md)
 * [faq items in foldouts](faq/faq-items-in-foldouts.md)
 * [faq items with headers](faq/faq-items-with-headers.md)
+
+***
+
+* [How does FRAX keep its peg](how-does-frax-keep-its-peg.md)
