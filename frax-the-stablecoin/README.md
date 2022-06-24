@@ -1,6 +1,6 @@
 # FRAX the stablecoin
 
-FRAX is a USD stablecoin that is issued by Frax Finance via smart contracts.
+FRAX is a US Dollar stablecoin that is issued by Frax Finance via smart contracts.
 
 It is designed to be the ideal stablecoin for DeFi with the following properties:
 
