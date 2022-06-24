@@ -3,7 +3,7 @@
 * [Frax in plain English](README.md)
 * [FRAX the stablecoin](frax-the-stablecoin/README.md)
   * [Keeping peg](frax-the-stablecoin/keeping-peg.md)
-  * [Has FRAX ever been off-peg?](frax-the-stablecoin/has-frax-ever-been-off-peg.md)
+  * [Peg history](frax-the-stablecoin/peg-history.md)
 * [FAQ](faq/README.md)
   * [What is FXS?](faq/what-is-fxs.md)
 * [ELI5](eli5/README.md)
