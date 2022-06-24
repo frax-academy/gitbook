@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome](README.md)
 * [FAQ](faq/README.md)
   * [What is FXS?](faq/what-is-fxs.md)
 * [ELI5](eli5/README.md)
