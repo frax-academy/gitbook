@@ -1,5 +1,5 @@
-# FRAX's price
+# FRAX price
 
-Since the launch of the protocol in December 2020, FRAX has never been off-peg. Off-peg means that the average price of FRAX (accross all markets) is lower than $0.99 or higher than $1.01. The fact that FRAX has never lost its peg can be verified on the blockchain and is also shown in the price chart on [Frax Finance](https://app.frax.finance/).&#x20;
+Since the launch of the protocol in December 2020, FRAX has never been off-peg. Off-peg means that the average price of FRAX (accross all markets) is lower than $0.99 or higher then $1.01. The fact that FRAX has never lost its peg can be verified on the blockchain and is also shown in the price chart on [Frax Finance](https://app.frax.finance/).&#x20;
 
 An easy and reliable way to check the current price of FRAX is through [Chainlink’s FRAX price feed](https://data.chain.link/ethereum/mainnet/stablecoins/frax-usd). Price sources like coingecko and coinmarketcap aren’t always reporting the correct price. Price errors on these platforms typically occur during volatile periods, exactly when people are watching prices closely. Don’t fall for FRAX price FUD on social channels, but check the price from a reliable source like [Chainlink](https://data.chain.link/ethereum/mainnet/stablecoins/frax-usd), [Curve](https://curve.fi/), [Uniswap](https://app.uniswap.org/#/swap?chain=mainnet), or [1inch](https://app.1inch.io/#/1/swap/FRAX/USDC).
