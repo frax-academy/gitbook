@@ -1,4 +1,4 @@
-# How FRAX keeps its peg
+# FRAX = 1 US Dollar
 
 Frax Finance ensures that FRAX is always worth 1 US Dollar with multiple instruments.&#x20;
 
