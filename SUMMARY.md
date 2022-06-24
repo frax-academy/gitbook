@@ -16,3 +16,11 @@
   * [What is FXS?](faq/faq-items-in-pages/what-is-fxs.md)
 * [faq items in foldouts](faq/faq-items-in-foldouts.md)
 * [faq items with headers](faq/faq-items-with-headers.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
+
+***
+
+* [What is FRAX](what-is-frax.md)
