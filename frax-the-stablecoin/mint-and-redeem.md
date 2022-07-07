@@ -4,7 +4,7 @@ Mint and Redeem are smart contract functions allowing anyone to mint (create) FR
 
 #### **Mint**
 
-Anyone can mint FRAX tokens by sending USDC and FXS tokens to a smart contract from Frax Finance. One always receives one FRAX token per one dollar worth of USDC and FXS tokens. The ratio between USDC and FXS is determined by the collateral ratio, see [Collateral Ratio](https://docs.frax.academy/frax-the-stablecoin/collateral#collateral-ratio). If FRAX trades above a dollar, anyone can profit by minting FRAX at one dollar and selling it on the market for more than a dollar. By selling FRAX on the market its price will decrease again, ensuring that the FRAX price returns to 1 USD quickly.
+Anyone can mint FRAX tokens by sending USDC and FXS tokens to a smart contract from Frax Finance. One always receives one FRAX token per one dollar worth of USDC and FXS tokens. The ratio between USDC and FXS is determined by the collateral ratio, see [collateral.md](collateral.md "mention"). If FRAX trades above a dollar, anyone can profit by minting FRAX at one dollar and selling it on the market for more than a dollar. By selling FRAX on the market its price will decrease again, ensuring that the FRAX price returns to 1 USD quickly.
 
 #### **Redeem**
 
