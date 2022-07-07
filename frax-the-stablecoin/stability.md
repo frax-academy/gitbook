@@ -1,4 +1,4 @@
-# Keeping peg
+# Stability
 
 Frax Finance ensures that FRAX trades at 1 USD with 3 methods.
 
