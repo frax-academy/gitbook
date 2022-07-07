@@ -12,4 +12,4 @@ Anyone can burn FRAX tokens and redeem them for USDC and FXS tokens using a smar
 
 &#x20;****&#x20;
 
-_Note that in practice only large entities and bots are rich and/or quick enough to profit from the mint and redeem process._
+_Note that in practice only bots and large entities are quick enough and have access large capital to profit from the mint and redeem process._
