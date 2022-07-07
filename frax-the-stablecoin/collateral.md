@@ -8,6 +8,6 @@ The collateral of FRAX can be seen in the "Frax Distribution Graph" on [Frax Fin
 
 #### **Collateral Ratio**
 
-Unique to FRAX is that it has a dynamic collateral ratio (CR). This means that the amount of collateral per FRAX token is not fixed, say 1:1 (100%) or 1:2 (50%) but determined by an algorithm. This algorithm lowers the collateral ratio when the demand for FRAX is high, and increases the ratio when the demand for FRAX is low. Historically the Collateral Ratio for FRAX has moved between 80 and 100% as can be seen in the dashboard on [Frax Finance](https://app.frax.finance/). Being fractionally collateralized is what gave Frax its name.
+Unique to FRAX is that it has a dynamic collateral ratio (CR). This means that the amount of collateral per FRAX token is not fixed, say 1:1 (100%) or 1:2 (50%) but determined by an algorithm. This algorithm lowers the collateral ratio when the demand for FRAX is high, and increases the ratio when the demand for FRAX is low (see the [official documentation](https://docs.frax.finance/price-stability#pidcontroller-update) for details). Historically the Collateral Ratio for FRAX has moved between 80 and 100% as can be seen in the dashboard on [Frax Finance](https://app.frax.finance/). Being fractionally collateralized is what gave Frax its name.
 
 The dynamic collateral ratio, use of collateral, and AMOs are key features that make FRAX capital efficient and sustainable.
