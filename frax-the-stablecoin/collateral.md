@@ -1,6 +1,6 @@
 # Collateral
 
-Collateral are the assets backing a stablecoin. Collateral is a guarantee that a stablecoin token has a certain value, even when its price drops on the open market. Frax does not have all of its collateral sitting as USDC tokens in a wallet, but uses it to create revenue for the protocol and increase the stability and availability of the FRAX token within DeFi.
+Collateral are the assets backing a stablecoin. Collateral is a guarantee that a stablecoin token represents a certain value, even when the price on the open market is lower at a certain point in time. Frax does not have all of its collateral sitting as USDC tokens in a wallet, but uses it to create revenue for the protocol and increase the stability and availability of the FRAX token within DeFi.
 
 #### FRAX's Collateral
 
